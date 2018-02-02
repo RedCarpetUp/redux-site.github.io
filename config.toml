@@ -1,6 +1,6 @@
 # Main config file for icon theme.
 theme = "hugo-icon"
-baseURL = "https://www.reduxfinance.com/"
+baseURL = "http://www.reduxfinance.com/"
 languageCode = "en-AU"
 title = "Redux Credit Finance Pvt Ltd"
 publishDir = "docs"
