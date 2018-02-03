@@ -23,7 +23,7 @@ publishDir = "docs"
   team = "The Team"
   contact = "Get In Touch"
   # Include logo instead if HOME:
-  # logo = "path/to/logo"
+   logo = "images/logo.png"
 
 # Mission section
 [params.mission]
