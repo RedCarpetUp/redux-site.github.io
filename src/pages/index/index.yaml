@@ -1,0 +1,146 @@
+#index page
+meta:
+  title: Home
+  description: RedCarpet - Get Instant Credit
+
+header:
+  - title_red: Quick & Easy
+    title:  Credit+Loans
+    description: Get credit and personal loans for anything you want.
+    more: Buy Now. Pay Later
+    image: phone.png
+
+  - link: /
+    link_text: SIGN UP — FREE
+    
+  - link: /
+    link_text: LEARN MORE
+
+
+features:
+  - header: Get hassle free Loans
+    description: It's simple
+    more: Enjoy instant cash with our loan services.
+    image: ./phone-lateral.png
+
+  - header: Ruby Card
+    description: Ruby card is our virtual  card use it anywhere just like a credit card.
+    icon: ti-credit-card
+
+  - header: Zeta Card
+    description: Zeta card is like a real credit card you can use it anywhere.
+    icon: ti-credit-card
+
+  - header: Personal Loans
+    description: Get personal loans for any errand, anytime, anywherebuy anything you want from any ecommerce website
+    icon: icon-wallet
+  
+  - header: Shop From Ecommerce
+    description: When you purchase this template, you'll freely receive future updates.
+    icon: icon-gift
+
+
+section3:
+  - header: Automate your marketing
+    description: Keep a personal touch while removing manual tasks from your to-do list. Pre-built marketing automation creates room to focus on strategy. Welcome, re-engage, and follow up with the people who matter to you. If you're new to marketing automation, get up to speed with one of our nifty guides - What is Marketing Automation?
+    image: ./phone-2.png
+    link: /
+    link_text: GET STARTED NOW
+    
+timeline:
+  - title: How to take loan?
+
+timeline_steps:
+  - title: Step 1
+    description: Download the App from the Play Store
+  - title: Step 2
+    description: Upload Your KYC documents
+  - title: Step 3
+    description: Apply for card or any personal Loan
+  - title: Step 4
+    description: Spend your money on anything you like
+  
+
+video:
+  - title: Why Users love us?
+    description: No need to save for something you really want to buy! No need to block your funds! We got you covered.
+    image: ./thumb16.png
+    video_url: https://www.youtube.com/embed/HPA_QQ1Ojlk?list=PLuqSOE4c5C5KrsB9XdVX7Z66lsmUGCRpA
+
+team_communication:
+  header: 
+    - title: How it works?
+  
+  body:
+    - title: RedCarpet Cards
+      description: With 2 Redcarpet cards, ruby card or zeta card you have control over your funds like never before.Ordering food or booking movie tickets from an app or website? Just enter the details and your OTP. Safe. Easy. Secure!
+      image: ./10.png
+
+    - title: Works wherever you go
+      description:  No need to save for something you really want to buy! And you don't have to depend on anyone else for it either.What you want to buy is your business and so is managing your finances. Get instant credit with RedCarpet.
+      image: ./11.png
+    
+    - title: Everything in one place.
+      description: Track your transactions, pay your bills and EMIs, all from the mobile app.  
+      image : ./12.png
+  
+  methods_header: Our Services
+
+  methods:
+    - title: RedCarpet Cards
+      icon: ti-credit-card
+      description: We provide Zeta card and Ruby card for all your loan card needs.
+      iconClassname: fa fa-angle-right small-5 pl-1
+      link: /smart-card
+      anchorText: Read More
+
+    - title: Personal Loans
+      icon: icon-wallet
+      description: Get personal loans for any errand, anytime, anywhere, buy anything you want.
+      iconClassname: fa fa-angle-right small-5 pl-1
+      link: /personal-loan
+      anchorText: Read More
+
+    - title: Shop From Ecommerce
+      icon: icon-gift
+      description: Buy anything you want from any of you favourite Ecommerce website.
+      iconClassname: fa fa-angle-right small-5 pl-1
+      link: /ecommerce-loan
+      anchorText: Read More
+
+download:
+  - title: Download Our App
+    description: Track your transactions, pay your bills and EMIs, all from the mobile app.
+    image: ./phone-2.png
+    link_playstore: https://play.google.com/store/apps/details?id=com.redcarpetup.rewardpay
+    image_playstore: ./badge-google.jpg
+    link_appstore: /
+    image_appstore: ./badge-apple.jpg
+
+faq:
+  - title: Frequently Asked Questions
+    description: Got a question? We've got answers. If you have some other questions, contact us using email.
+
+emi: 
+  minAmount: 5000
+  maxAmount: 75000
+  rateOfInterest1: 12
+  rateOfInterest2: 24
+
+docs:
+  heading: Main Documents Required
+
+  body:
+    - doc: Government ID 
+      line: Any Government ID like Aadhar, Voter, Driving, Passport.
+      image: ./aadhar.png
+    - doc: PAN
+      line: If you don't have a PAN card, you can sign our Form 60 and upload it on the app
+      image: ./pan.png
+    - doc: Employment Proof / Student ID
+      line: You can upload salary slip, Bank statement. If you're a student, you can just upload student ID.
+      image: ./salary.png
+    - doc: Selfie with Govt ID
+      line: Selfie with the Govt ID (that you have selected)
+      image: ./undraw_selfie1_kpqf.png
+

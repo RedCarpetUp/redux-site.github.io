@@ -1,0 +1,39 @@
+meta:
+  title: Personal Loan
+  description: RedCarpet - Get Instant Credit
+
+header:
+  - title: Broke? Low on Funds? We are listening!
+    description: Use personal loan for any of your need.
+    image: ./main.png
+  
+  - link: learn-more
+    link_text: Learn More
+
+  - link: get-started
+    link_text: Get Started
+
+blogs:
+  - type: Tips
+    title: Easy Transfer
+    description: Redux gives you easy transfer of money in your Bank account. Just tell us how much do you want, we'll transfer it to you.
+    image: ./personal1.png
+    link: /blogs/post1
+
+  - type: Collaborate
+    title: Any urgent problem
+    description: In case of any urgent financial needs, we are always there to help you.
+    image: ./personal2.png
+    link: /blogs/post1
+
+  - type: Collaborate
+    title: Easy EMI Payment
+    description: You can pay us back at affordable interest rate.
+    image: ./personal3.png
+    link: /blogs/post1
+
+cta:
+  - title: Get Custom Email
+    description: Use the TheSaaS you love - for business. Get custom email @yourcompany.com including calendar, docs, video meetings, and more with access from your phone or tablet.
+    link: /connect
+    link_text: Get Started

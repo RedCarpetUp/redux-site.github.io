@@ -1,0 +1,95 @@
+Meta:
+  title: About
+  description: RedCarpet - Get Instant Credit
+Header:
+  - title: We lend where banks cannot see
+    description : RedCarpet lends to customers in India to finance their online purchases - ecommerce, travel etc. In India, credit and finance companies are able to service less than 3% of the customer base because there is no data, no widespread credit bureaus to profile and score customers. RedCarpet gathers data from the field (and other partners). We use this data to service customers who never had any access to credit before. Our design philosophy at RedCarpet is called "Design for Honesty". We are acutely aware of the responsibility we have to safeguard our customer data. At every stage of the journey - right from asking for data (and guiding users through "Permission Blindness") to hardware encrypting PII data, we do it all
+
+ScrollImages:
+  - image: ./scrolling1.jpg
+  - image: ./scrolling2.jpg
+  - image: ./scrolling3.jpg
+  - image: ./scrolling4.jpg
+  - image: ./scrolling5.jpg
+
+Testimonials:
+  - title: What People Say
+    description: We waited until we could do it right. Then we did! Instead of creating a carbon copy.
+
+  - name: Steve Jobs
+    quote: When you innovate, you make mistakes. It is best to admit them quickly, and get on with improving your other innovations.
+    image: ./avatar1.jpg
+
+  - name: John Jones
+    quote: Design everything on the assumption that people are not heartless or stupid but marvelously capable, given the chance.
+    image: ./avatar2.jpg
+
+  - name: Bill Gates
+    quote: Technology is just a tool. In terms of getting the kids working together and motivating them, the teacher is the most important.
+    image: ./avatar3.jpg
+
+Partners:
+  - image: ./partner1.jpg
+  - image: ./partner2.png
+  - image: ./partner3.png
+
+Team:
+  - title: Meet The Team
+    description:  Meet our small team that make those great products
+
+founder:
+  - title: We are the crazy ones who believe in You!
+    image: ./5.jpg
+  
+  - quote: 90% of ecommerce in India is cash on delivery. That is almost 4 billion USD of credit floating around - but not managed and packaged as credit and risk. What it means is that we are building structure around something that already happens at a large scale in India… just not built right.
+  - quote: By building better credit & lending infrastructure, we want to enable more people to access credit. Our job starts BEFORE you start using a payment gateway or a wallet - we believe the basic problem in the trillion dollar Indian economy is access to liquidity. Our aim is to expand the credit economy — simply replacing the legacy credit providers/banks would probably be a great business success, but it’s not all that interesting as a goal.
+
+Join:
+  - image: ./thumb12.jpg
+    title: Join Our Team.
+    link_text: View Openings
+    link: /careers
+
+Advisors:
+  - name: NAFTALI HARRIS
+    role: DATA SCIENCE
+    image: ./naftali.jpg
+
+Backers:
+  - name: Aditi
+    role: Investor
+    image: .//aditi-sreenivasan.jpg
+
+  - name: Amar Umap
+    role: Investor
+    image: ./amar-umap.jpg
+
+  - name: Balaji
+    role: Investor
+    image: ./balaji-bhashyam.jpg
+
+  - name: Gaurav Bhatia
+    role: Investor
+    image: ./gaurav-bhatia.jpg
+
+  - name: Justin kan
+    role: Ycombinator
+    image: ./justin.jpg
+
+  - name: Justin sullivan
+    role: SHINRYOKU
+    image: ./justin-sullivan.jpg
+
+  - name: Krishnaprem
+    role: Oracle
+    image: ./krishnaprem-bhatia.jpg
+
+  - name: Prafulla
+    role: CEO, COSEER
+    image: ./prafulla-krishna.jpg
+
+  - name: Sanjay Suri
+    role: CEO,Technocrat
+    image: ./sanjay-suri.jpg
+
+

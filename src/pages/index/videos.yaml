@@ -1,0 +1,20 @@
+#videos
+  - url: https://www.youtube.com/watch?v=ah4pcPbRi2M
+    thumb: ./thumb2.jpg
+    type: News
+    text: We relocated our office to a new designed garage
+
+  - url: https://www.youtube.com/watch?v=ah4pcPbRi2M
+    thumb: ./thumb1.jpg
+    type: Marketing
+    text: Top 5 brilliant content marketing strategies
+
+  - url: https://www.youtube.com/watch?v=ah4pcPbRi2M
+    thumb: ./thumb3.jpg
+    type: Design
+    text: Best practices for minimalist design
+
+  - url: https://www.youtube.com/watch?v=ah4pcPbRi2M
+    thumb: ./thumb1.jpg
+    type: News
+    text: We relocated our office to a new designed garage
