@@ -4,10 +4,10 @@ meta:
   description: RedCarpet - Get Instant Credit
 
 header:
-  - title_red: Quick & Easy
-    title:  Credit+Loans
-    description: Get credit and personal loans for anything you want.
-    more: Buy Now. Pay Later
+  - title_red: Loans for the
+    title:  New to Credit
+    description: Get a loan faster and more easier than a bank
+    more: Powered by RedCarpet Engineering
     image: phone.png
 
   - link: /
