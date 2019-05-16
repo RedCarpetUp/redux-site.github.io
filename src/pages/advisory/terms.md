@@ -26,4 +26,7 @@ It has come to our notice that there are fraudsters who use RedCarpets name and 
  * Hover your mouse over any hyperlinks to reveal the actual URL and check that it is, in fact, the address stated in the email.
 * Check if Company’s name and address mentioned on the mail is genuine
 * Look at your URL bar. Secure sites always start with 'https' (rather than 'http') and have a little gold lock next to them. If you see the little gold lock next to a ‘'http' (rather than an ‘https’) you know it's a fraudulent site.
-* Check if the email id of the sender ended with registered domain of RedCarpet e.g. "abc@redcarpetup.com”
+* Check if the email id of the sender ended with registered domain of RedCarpet e.g. "abc@redcarpetup.com”.
+
+
+ 

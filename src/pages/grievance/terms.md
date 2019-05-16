@@ -33,10 +33,8 @@ New Delhi, Delhi 110030
 #### 3. Escalation Matrix
 ###Level 1:- 
 
-A customer can escalate the matter to the founder of RedCarpet at sss@redcarpetup.com in case he/she is not satisfied with the response from the Customer Care team. 
-Customers can also contact the Founder  between 11 AM to 8 PM, Monday to Saturday on contact number: +91 9810485533
-
-Depending on the query, a written resolution will be sent to the customer within 14 business days at his/her registered email id with the Company.
+If a customer is not satisfied with the resolution provided through any of the above channels, he/she can write to the Founder's Office at help@redcarpetup.com
+Customers are required to quote the complaint reference number provided to them in their earlier interaction to help us understand and address their concerns.
 
 ###Level 2:- 
 
@@ -45,4 +43,23 @@ The Officer Incharge,
 Reserve Bank of India,
 Department of Non-Banking Supervision, Mumbai Regional Office, 3rd Floor, Rear Wing, Byculla,
 Mumbai-400008
+ 
+
+
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
  
