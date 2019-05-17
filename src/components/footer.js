@@ -12,13 +12,14 @@ const Footer = () => (
 
         <div className="col-md-6 col-xl-2">
           <p><a href="/"><img src={logo} alt="logo"/></a></p>
-          <p>Track your transactions, pay your bills and EMIs, all from the mobile app.</p>
+          <p>We lend to those that banks cannot see</p>
         </div>
 
         <div className="col-6 col-md-3 col-xl-2">
           <h6 className="mb-4 mt-1"><strong>Company</strong></h6>
           <div className="nav flex-column">
             <a className="nav-link" href="/about">About</a>
+            <a className="nav-link" href="/privacy">Terms &amp; Conditions</a>
 
           </div>
         </div>
@@ -35,9 +36,9 @@ const Footer = () => (
         <div className="col-6 col-md-3 col-xl-2">
           <h6 className="mb-4 mt-1"><strong>Legal</strong></h6>
           <div className="nav flex-column">
-          <a className="nav-link" href="/privacy">Terms &amp; Conditions</a>
           <a className="nav-link" href="/grievance">Grievance Redressal</a>
           <a className="nav-link" href="/advisory">Fraud Advisory</a>
+          <a className="nav-link" href="/interest">Interest Rates</a>
             {/* <a className="nav-link" href="/request">Request</a> */}
           {/* <a className="nav-link" href="/legal/dmi-agent-service-agreement">DMI agreement</a> */}
           </div>

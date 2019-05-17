@@ -5,61 +5,52 @@ date: "2019-02-24"
 ---
 
 
-## Grievance Redressal
+# Grievance Redressal Policy
+### 1.	Introduction
 
-#### 1. Purpose
-At RedCarpet, it is our constant endeavour to put customers interest first, give them money related arrangements that are directly for the Customers. The Purpose is to minimize customer complaints and grievances through proper service, delivery and review mechanism and to guarantee brief redressal of customer complaints and grievances.
+  The Reserve Bank of India has prescribed broad guidelines on laying down of appropriate grievance redressal mechanism for all Non-Banking Finance Companies with regards to their dealings with customers.
+Redux Credit Finance Private Limited (hereinafter referred to as the ‘Company’) has formulated this Grievance Redressal Policy (‘Policy’) in conformity with the Master Direction issued by Reserve Bank of India (Master Direction DNBR. PD. 007/03.10.119/2016-17 dated September 1, 2016 and subsequent amendments).
+This Policy document aims to describe internal policy for handling customer complaints. It describes various channels for lodging the complaint and responding to customers within the committed time period. This policy has been approved by the Board of directors of the Company.
 
-#### 2.Grievance Redressal Procedure
-At RedCarpet customer Delight is our priority and we are committed to provide our customers Best in Class Experience. Customer service is extremely important for sustained business growth and as an organisation we endeavour to guarantee that our customers get excellent service across different touch points. 
+### 2.	Objective of the Policy
+The Company has devised this Policy with an objective to: 
+* 	Ensure that all concerns/complaints raised by customers are resolved in effective and timely manner; 
+* 	Create awareness amongst the customers of their rights to opt for alternative remedies if they are not fully satisfied with the company’s response or resolution to their complaint; and
+* 	Ensure that due attention is paid to customer service and satisfaction and thereby, customer confidence in the company continues to grow.
+	
+### 3. Grievance Redressal Mechanism 
+  [Mode for addressing the customer complaints][df1]
+* Complaints of the Customers can be registered by them using any of the 3 modes given below:
+  Customers can call on toll free number: ____________ (days and timings for contacting to be mentioned)
+    &nbsp;&nbsp;&nbsp;&nbsp;&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;&nbsp;&nbsp;&nbsp;&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;  &nbsp;&nbsp;&nbsp;&nbsp;&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;  &nbsp;&nbsp;&nbsp;&nbsp;&nbsp; &nbsp; &nbsp; &nbsp; &nbsp;  &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;   or
+Email at: support@reduxfinance.com 
+      &nbsp;&nbsp;&nbsp;&nbsp;&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;&nbsp;&nbsp;&nbsp;&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;  &nbsp;&nbsp;&nbsp;&nbsp;&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;  &nbsp;&nbsp;&nbsp;&nbsp;&nbsp; &nbsp; &nbsp; &nbsp; &nbsp;  &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;                         or
+Write (through letter) to: 
+C1-622, Palam Vihar, Village Choma, Gurgaon-122017
+Second Floor, Plot A, Khasra 360, Near Indian Bank, Behind Centrum Mall, Sultanpur Metro Station, New Delhi - 110030
+* 	Customers need to quote their loan account number in the complaint call/ email/ letter.
+* 	Ticket Number received as an acknowledgement for the complaint received can be used by the customers for future communication.
+* 	The Company should ensure that the customer queries/issues are addressed/resolved within 10 working days.
 
-The Company's policy on grievance redressal is governed by the following principles:
-     1. Customer are treated fairly at all times.
-     2.  Complaints raised by customers are dealt with courtesy and in a timely manner
-     3. Employees works in good faith and without prejudice to the interest of the customers. 
-     4. Customers are informed of avenues to escalate their complaints within the organization, and their rights if they are not satisfied with the resolution of their complaints.
-     
-RedCarpet  provides to our customers information on various avenues (such as Branch, contact centre, email ids, etc.) to register their grievance and  best services to avoid any grievances.
-Specific time schedules are set up for handling complaints and disposing them at all levels including branches, contact center and other avenues of escalations. Efforts are made at all levels of the grievance redressal mechanism to resolve the complaints within specified time frames defined by the organization.
+#####  Escalation Process
+There can be instances where customers may not be satisfied with the service resolution specified as above. To further highlight such instances and register a complaint, the customers can follow the below process: 
 
-If in case customer is dissatisfied  or doesnot receive any response from our company, they may write in to help@redcarpet.cash or call on 011-71156232. You will receive an acknowledgment/response within 10 business days. Customers can write to us at and to
+| Escalation Level| Mechanism details| Resolution turnaround time|
+| ------ | ------ |  ------ | 
+| FIRST LEVEL | Customer can opt for making a call/ writing an e-mail/ letter as specified above | 10 working days|
+|SECOND LEVEL |If the customer is not satisfied with the resolution provided at level 1 within 2 working days, the customer can approach the Grievance Redressal Officer (‘GRO’). The name and contact numbers of GRO is as follows:<<mention name and contact numbers of GRO here>>(days and timings for contacting to be mentioned) |GRO shall resolve the customer queries/issues within 10 working days of receiving such complaint|
+| THIRD LEVEL| In case of non-redressal of the complaint to the customer’s satisfaction or if the complaint is not addressed within a period of one month, the customer may appeal to the Officer-in-Charge of the Regional Office of Department of Non-Banking Supervision of the Reserve Bank of India, under whose jurisdiction the registered office of the company falls. &nbsp;&nbsp;&nbsp;&nbsp;&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;&nbsp;&nbsp;&nbsp;&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;  &nbsp;&nbsp;&nbsp;&nbsp;&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;&nbsp;&nbsp;&nbsp;&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;&nbsp;&nbsp;&nbsp;&nbsp; &nbsp; &nbsp; &nbsp; &nbsp;Offer-in-Charge, The Reserve Bank of India,Department of Non-Banking Supervision, Address:6, Sansad Marg,New Delhi-110001 Phone: 011-2371 4456/ 0538 Fax: 011-2375 2188Email id: dnbsmro@rbi.org.in|
 
-RedCarpet Tech Pvt Ltd,
-Building 1, 
-Hundred Feet Road Ghitorni Metro Station,
-New Delhi, Delhi 110030
+### 4. Supervision and Reporting
+* 	The Board of Directors shall nominate a senior level officer as GRO to ensure compliance of this policy.
+* GRO to report to the Board of Directors with regard to the ageing of all the tickets with ‘not closed’ status on a periodical basis.
+* The Board of Directors shall also nominate a senior level officer (GRO or any other person) for the purpose of tracking whether all complaints and the solutions provided for it have been accurately captured in the system. Further, such person shall also be held responsible for archiving any earlier complaint from the system for any future reference purpose.
 
+### 5.	Language and mode of communicating the Policy
+* This Policy will be provided in the English language and vernacular language if requested for, by any customer;
+* The company will put up this policy on the website, for the information of customers; and
+* The company will display, at all branches / places where business is transacted, the name and contact details (Telephone / Mobile nos. as also email address) of the GRO and the Officer-in-charge of RBI from the Department of Non-Banking Supervision who can be approached by the public for resolution of complaints against the company.
 
-#### 3. Escalation Matrix
-###Level 1:- 
+### 6.	Review of Policy
+* 	This Policy will be reviewed and assessed on an annual basis or as and when there are any relevant regulatory developments. The Board of Directors will approve the revised policy and the changes if any, shall be communicated to the customers and relevant stakeholders as and when necessary.
 
-If a customer is not satisfied with the resolution provided through any of the above channels, he/she can write to the Founder's Office at help@redcarpetup.com
-Customers are required to quote the complaint reference number provided to them in their earlier interaction to help us understand and address their concerns.
-
-###Level 2:- 
-
-A customer not satisfied with the response at Level 1, can further escalate the complaint to the below:-
-The Officer Incharge,
-Reserve Bank of India,
-Department of Non-Banking Supervision, Mumbai Regional Office, 3rd Floor, Rear Wing, Byculla,
-Mumbai-400008
- 
-
-
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
