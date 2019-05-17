@@ -1,7 +1,7 @@
 module.exports = {
   siteMetadata: {
-    title:`RedCarpet`,
-    description: `RedCarpet - Get Instant Credit`,
+    title:`Redux`,
+    description: `Redux - Loans for the New to Credit`,
     siteUrl:`https://www.reduxfinance.com`,
     defaultImage: ``,
     author: `@RedcarpetUp`,
@@ -20,8 +20,8 @@ module.exports = {
     {
       resolve: `gatsby-plugin-manifest`,
       options: {
-        name: `Redcarpet`,
-        short_name: `Redcarpet`,
+        name: `Redux`,
+        short_name: `Redux`,
         start_url: `/`,
         background_color: `#663399`,
         theme_color: `#663399`,
