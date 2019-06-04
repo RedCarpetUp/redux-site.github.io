@@ -1,0 +1,27 @@
+#faq
+meta:
+  title: FAQ
+  description: RedCarpet - Get Instant Credit
+
+types:
+  - type: General  
+
+# these will be shown on home page faq section as well as /faq page
+questions:
+  - question: Why is my loan application rejected?
+    answer: We calculate your credit score based on the information you provide , if the calculated credit score is less than our requirements, that might be the reason why your loan application is rejected.
+  - question: How to load money in zeta card?
+    answer: Follow these steps in "How To" to know more.
+  - question: What is Ruby Card?
+    answer: Ruby card is the new virtual card which you can use on mobile app and make online payments anywhere. You can see all the details of the card.
+  - question: How to use credit limit?
+    answer: You can use your credit limit in your redcarpet card and in personal loans.
+  - question: I lost my phone how can I pay my EMI?
+    answer: You can call customer service and request to change your number.
+  - question: Will I get discount if I buy RedCarpet Card?
+    answer: Please download the app to see the offers and discounts that are currently available
+
+# these will be shown only on faq page only
+extrafaqs:
+  - question: How to deactivate my account?
+    answer: If you uninstall the app and you have no currently outstanding dues, your account is deemed to be closed. You can reactivate your account whenever you want by reinstalling the app. You don't need to return the card - it's free !

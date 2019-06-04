@@ -20,6 +20,7 @@ const Footer = () => (
           <div className="nav flex-column">
             <a className="nav-link" href="/about">About</a>
             <a className="nav-link" href="/privacy">Terms &amp; Conditions</a>
+            <a className="nav-link" href="/faq">FAQ</a>
 
           </div>
         </div>

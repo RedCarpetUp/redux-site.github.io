@@ -4,7 +4,7 @@ import React from "react"
 
 import logo_dark from '../images/rclogo.png'
 import logo_light from '../images/logo-light.png'
-import logo from '../images/rclogo_light.png'
+import logo from '../images/rclogo.png'
 
 const NavbarLight = () => (
     <nav className="navbar navbar-expand-lg navbar-light navbar-stick-dark" data-navbar="sticky">
