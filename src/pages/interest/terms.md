@@ -7,10 +7,10 @@ date: "2019-02-24"
 
 #### Interest Rate Policy
 
+
 #### 1. Introduction
 
 The Reserve Bank of India vide its Master Direction DNBR. PD. 07/03.10.119/2016-17 dated September 1, 2016 and subsequent amendments) has directed that the Board of each NBFC shall lay down appropriate principles to determine the interest rates, processing and other charges. In compliance with the said RBI directions, Redux Credit Finance Private Limited (‘Redux’ or ‘Company’) has formulated the interest rate policy taking into account relevant factors such as cost of funds, margin and risk premium, etc.
-
 
 #### 2. Interest rate methodology and principles
 
@@ -21,6 +21,7 @@ In compliance with the RBI directions, the interest rate policy of the Company i
  * Other factors that will be taken into account to arrive at the final lending rate will be interest, credit risk, default risk, liquidity risk and market risk in the related business segment, historical performance of similar clients, profile of the borrower, tenure of relationship with the borrower, repayment track record of the borrower in case of existing customer, etc. Such information is gathered based on information provided by the borrower, the Company’s records, etc.
  * The rate of interest for the same product and tenor availed during same period by different customers could vary depending upon any of / combination of the above factors, borrower’s individual credit profile.
  * The interest rates could be offered on fixed or variable basis, of varying terms and repayment timeline, depending upon the default risk of the borrowers.
+ * For the above interest, the range could vary between eighteen and thirty-six per cent annually.
  * The interest could be charged on monthly, quarterly or half-yearly rests for different products.
  * The interest rate will be communicated to the customers prior to submission of the loan application and EMI apportionment towards interest and principal dues will also be made available to the customer.
  * Interest payments will be included in the overall payment schedule and the interest will be deemed payable immediately on the due date as communicated and no grace period for payment of interest will be allowed.
@@ -31,6 +32,7 @@ In compliance with the RBI directions, the interest rate policy of the Company i
  * Such revisions in the interest rates and other charges will be prospective in effect
    
 
+
 #### 3. Key responsibilities of the Company
 
    * In addition to the amount of loan sanctioned, the Company shall convey to the borrower, in the vernacular language as understood by the borrower, the annualised rate of interest. This shall be communicated in a manner deemed fit by the Company and shall be kept on record.
@@ -39,26 +41,8 @@ In compliance with the RBI directions, the interest rate policy of the Company i
    * In accordance with the RBI Directions, the Asset Liability Committee (ALCO) of the NBFC shall determine the interest rates
    * The Company shall publish the interest rate and the policy on interest rate on its web site. 
 
+
 ### 4.	Review of the policy
  The policy will be reviewed by the ALCO annually and changes, if any will be approved by the Board of Directors.
 
 
-
-
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
