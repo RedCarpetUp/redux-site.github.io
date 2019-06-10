@@ -1,8 +1,9 @@
 ---
 title: "Grievance Redressal Policy"
 description: "Terms & Conditions"
-date: "2019-02-24"
+date: "2019-06-10"
 ---
+
 
 
 # Grievance Redressal Policy
@@ -24,15 +25,18 @@ The Company has devised this Policy with an objective to:
 * Ensure that all concerns/complaints raised by customers are resolved in effective and timely manner;
 * Create awareness amongst the customers of their rights to opt for alternative remedies if they are not fully satisfied with the company’s response or resolution to their complaint; and
 * Ensure that due attention is paid to customer service and satisfaction and thereby, customer confidence in the company continues to grow.
+
 ### 3. Grievance Redressal Mechanism 
+
+
 #### Mode for addressing the customer complaints
 
  Complaints of the Customers can be registered by them using any of the 3 modes  given below:
-1. Customers can **call** on toll free number: ____011- 71156232____ (Monday - Friday, <br/> 10am - 5pm )  **or**
+1. Customers can **call** on toll free number: **011- 71156232** (Monday - Friday,  10am - 5pm )  **or**
 2. **Email** at: support@reduxfinance.com
 3. **Write (through a letter)** to:
->**Redux Credit Finance Private Limited,
->Fourth Floor, Balraj & Sons Building, 100 Feet Road,
+>**Redux Credit Finance Private Limited,<br/>
+>Fourth Floor, Balraj & Sons Building, 100 Feet Road,<br/>
 > Near Ghitorni Metro Station,  New Delhi - 110030** 
 
 #### Important
@@ -44,9 +48,9 @@ The Company has devised this Policy with an objective to:
 &nbsp;&nbsp;There can be instances where customers may not be satisfied with the service resolution specified as above.  <br/> &nbsp;&nbsp;To further highlight such instances and register a complaint, the customers can follow the below process: 
 
 
-| Escalation Level|  Mechanical Details |Resolution turnaround time |
+| Escalation|     Mechanical Details |Resolution turnaround time |
 |--|--|--|--|
-|**FIRST LEVEL** |   Customer can opt for making a call/ writing an e-mail/ letter as specified above|10 working days
+|**FIRST LEVEL**        |   Customer can opt for making a call/ writing an e-mail/ letter as specified above|10 working days
 | **SECOND LEVEL** |If the customer is not satisfied with the resolution provided at level 1 within 2 working days, the customer can approach the Grievance Redressal Officer ('GRO'). The name and contact number of GRO is as follows:  <br/> Kartik Venkataraman <br/> Contact No:-011-71156232 <br/> Days:- Monday-Friday<br/>Timings:- 10 am - 5 Pm| GRO shall resolve the customer queries/issues with in 10 working days of receiving such complaint|
  **THIRD LEVEL** |In case of non-redressal of the complaint to the customer's satisfaction or if the complaint is not addressed within a period of **one month**, the customer may appeal to the Officer-in-Charge of the Regional Office of Department of Non-Banking Supervision of the Reserve Bank of India, under whose jurisdiction the registered office of the company falls.                                      <br /> **Officer-in-Charge,** <br/>The Reserve Bank of India,<br/> Department of Non-Banking Supervision,<br/>**Address:** 6, Sansad Marg,New Delhi-110001<br/>**Phone**: 011-2371 4456/ 0538 <br /> **Fax:** 011-2375 2188<br />**Email id:** [**dnbsmro@rbi.org.in**](mailto:dnbsmro@rbi.org.in)
 
