@@ -1,6 +1,6 @@
 ---
 title: "Terms of Use"
-date: "2019-04-02"
+date: "2019-06-10"
 ---
 
 ### TERMS OF USE

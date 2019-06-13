@@ -1,7 +1,7 @@
 ---
 title: "T&C"
 description: "Terms & Conditions"
-date: "2019-02-24"
+date: "2019-06-10"
 ---
 
 
