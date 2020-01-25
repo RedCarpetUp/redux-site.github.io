@@ -42,7 +42,7 @@ Payment gateway providers tracks user activity, page content, click/touch, movem
 
 #### 6. Security Precautions
 
-The security of your information is important to us. We maintain the information you provide and safely secure the information in company's databases and these databases are stored on secure servers with appropriate firewalls. When you enter sensitive information such as credit card/Debit Card details or any banking details on our Application, we encrypt that information using secure socket layer technology. We never permanently store complete credit card/debit card details. We follow some industry standards to protect the personal information submitted to us, both during transmission and once we receive it. If you find out any unauthorized use of your account or any suspicious activity, we request you to notify Redux Finance Team immediately either by sending an email to support@reduxfinance.com or communicate with us via call 011-71156232
+The security of your information is important to us. We maintain the information you provide and safely secure the information in company's databases and these databases are stored on secure servers with appropriate firewalls. When you enter sensitive information such as loan card/Debit Card details or any banking details on our Application, we encrypt that information using secure socket layer technology. We never permanently store complete loan card/debit card details. We follow some industry standards to protect the personal information submitted to us, both during transmission and once we receive it. If you find out any unauthorized use of your account or any suspicious activity, we request you to notify Redux Finance Team immediately either by sending an email to support@reduxfinance.com or communicate with us via call 011-71156232
 **Note :-**  We urge you to take steps to keep your personal information safe so always choose a strong password and keep it private.
 
 #### 7. Accessing and Updating Your Information
@@ -79,7 +79,7 @@ We may change this privacy policy from time to time. If we decide to change our 
 
 We take your complaints very seriously in order to meet the highest standards of our customers because we believe in quality service. Our job is not just to make our customer's happy, but to satisfy them to the core. If you are unhappy with the way we have handled your personal information or any request that you have raised with us, you should contact us at the contact details on our Contact Page -  https://www.reduxfinance.com/contact/
 
-Redux Credit Finance Private Limited, 
+Redux loan Finance Private Limited, 
 4th Floor, Balraj & Sons Building, 
 100 Feet road, Ghitorni, Near Ghitorni Metro Sation,
 New Delhi - 110030

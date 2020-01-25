@@ -38,7 +38,7 @@ export default function IndexPage({ data }) {
               <p className="lead" style={{ marginBottom: '3rem' }}>{header[0].more}</p>
               <p className="gap-xy">
                 <a className="btn btn-round btn-secondary mw-200" href='#know_more'>{header[2].link_text}</a>
-                <a target="_blank" href={download.link_playstore}><img className="rounded" src={download.image_playstore.childImageSharp.fluid.src} alt="download on google play" /></a>
+                {/* <a target="_blank" href={download.link_playstore}><img className="rounded" src={download.image_playstore.childImageSharp.fluid.src} alt="download on google play" /></a> */}
               </p>
             </div>
 
