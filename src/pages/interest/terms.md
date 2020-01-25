@@ -10,7 +10,7 @@ date: "2019-06-10"
 
 #### 1. Introduction
 
-The Reserve Bank of India vide its Master Direction DNBR. PD. 07/03.10.119/2016-17 dated September 1, 2016 and subsequent amendments) has directed that the Board of each NBFC shall lay down appropriate principles to determine the interest rates, processing and other charges. In compliance with the said RBI directions, Redux Loan Finance Private Limited (‘Redux’ or ‘Company’) has formulated the interest rate policy taking into account relevant factors such as cost of funds, margin and risk premium, etc.
+The Reserve Bank of India vide its Master Direction DNBR. PD. 07/03.10.119/2016-17 dated September 1, 2016 and subsequent amendments) has directed that the Board of each NBFC shall lay down appropriate principles to determine the interest rates, processing and other charges. In compliance with the said RBI directions, Redux Credit Finance Private Limited (‘Redux’ or ‘Company’) has formulated the interest rate policy taking into account relevant factors such as cost of funds, margin and risk premium, etc.
 
 #### 2. Interest rate methodology and principles
 

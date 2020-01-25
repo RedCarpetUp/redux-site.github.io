@@ -15,7 +15,7 @@ date: "2019-06-10"
 
 The Reserve Bank of India has prescribed broad guidelines on laying down of appropriate grievance redressal mechanism for all Non-Banking Finance Companies with regards to their dealings with customers.
 
-Redux Loan Finance Private Limited (hereinafter referred to as the ‘Company’) has formulated this Grievance Redressal Policy (‘Policy’) in conformity with the Master Direction issued by Reserve Bank of India (Master Direction DNBR. PD. 007/03.10.119/2016-17 dated September 1, 2016 and subsequent amendments).
+Redux Credit Finance Private Limited (hereinafter referred to as the ‘Company’) has formulated this Grievance Redressal Policy (‘Policy’) in conformity with the Master Direction issued by Reserve Bank of India (Master Direction DNBR. PD. 007/03.10.119/2016-17 dated September 1, 2016 and subsequent amendments).
 
 This Policy document aims to describe internal policy for handling customer complaints. It describes various channels for lodging the complaint and responding to customers within the committed time period. This policy has been approved by the Board of directors of the Company.
 
@@ -35,7 +35,7 @@ The Company has devised this Policy with an objective to:
 1. Customers can **call** on toll free number: **011- 71156232** (Monday - Friday,  10am - 5pm )  **or**
 2. **Email** at: support@reduxfinance.com
 3. **Write (through a letter)** to:
->**Redux Loan Finance Private Limited,<br/>
+>**Redux Credit Finance Private Limited,<br/>
 >Fourth Floor, Balraj & Sons Building, 100 Feet Road,<br/>
 > Near Ghitorni Metro Station,  New Delhi - 110030** 
 

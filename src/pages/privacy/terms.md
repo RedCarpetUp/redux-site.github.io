@@ -79,7 +79,7 @@ We may change this privacy policy from time to time. If we decide to change our 
 
 We take your complaints very seriously in order to meet the highest standards of our customers because we believe in quality service. Our job is not just to make our customer's happy, but to satisfy them to the core. If you are unhappy with the way we have handled your personal information or any request that you have raised with us, you should contact us at the contact details on our Contact Page -  https://www.reduxfinance.com/contact/
 
-Redux loan Finance Private Limited, 
+Redux Credit Finance Private Limited, 
 4th Floor, Balraj & Sons Building, 
 100 Feet road, Ghitorni, Near Ghitorni Metro Sation,
 New Delhi - 110030
