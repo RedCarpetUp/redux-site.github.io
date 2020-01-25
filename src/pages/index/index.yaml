@@ -24,12 +24,12 @@ features:
     image: ./phone-lateral.png
 
   - header: Ruby Card
-    description: Ruby card is our virtual  card use it anywhere just like a loan card.
-    icon: ti-loan-card
+    description: Ruby card is our virtual card use it anywhere just like a credit card.
+    icon: ti-credit-card
 
   - header: Zeta Card
-    description: Zeta card is like a real loan card you can use it anywhere.
-    icon: ti-loan-card
+    description: Zeta card is like a real credit card you can use it anywhere.
+    icon: ti-credit-card
 
   - header: Personal Loans
     description: Get personal loans for any errand, anytime, anywherebuy anything you want from any ecommerce website
@@ -88,7 +88,7 @@ team_communication:
 
   methods:
     - title: RedCarpet Cards
-      icon: ti-loan-card
+      icon: ti-credit-card
       description: We provide Zeta card and Ruby card for all your loan card needs.
       iconClassname: fa fa-angle-right small-5 pl-1
       link: /smart-card
