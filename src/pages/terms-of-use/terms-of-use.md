@@ -23,13 +23,13 @@ Redux Credit Finance Private Limited, a company incorporated under the laws of R
 
 **4.1** Redux offers the following services to the Users of the Application (‘Services’): i. Facilitate the execution of the loan agreement between the User and the Financing Partner; ii. Payment to the on-line merchants of various Products with whom Redux partners (‘Merchants’) purchased by the User, using the down-payment made by the User and the funds sanctioned by Redux’s financing partner (‘Financing Partner’); iii. Collection of the EMI as determined by the Financing Partner from the User; iv. Creation and maintenance of User’s account with respect to the Product purchased, loan availed, repayments of the principle amounts and interest on the loan availed by the User. Redux shall be free to modify the above mentioned Services with prospective effect at its sole discretion.
 
-**4.2** By using the Application, Redux assists the User to gain access to various credit schemes for purchase of goods or services offered by Merchants (‘Products’). Redux does not in any way guarantee to find a suitable financing partner for the User.
+**4.2** By using the Application, Redux assists the User to gain access to various loan schemes for purchase of goods or services offered by Merchants (‘Products’). Redux does not in any way guarantee to find a suitable financing partner for the User.
 
 **4.3** Upon completion of its risk assessment with respect to the User, Redux shall choose a suitable financing partner for the User and shall facilitate the execution of a loan agreement between the financing partner and the User. Provided however, Redux does not in any manner guarantee to find a suitable financing partner for the User.
 
 **4.4** If the User agrees to buy the Products, the User may if applicable be required to pay a token amount as down-payment to Redux or the Financing Partner, as the case may be after which the remaining cost will be paid by the Financing Partner to the Merchant whose Product the User has purchased. Such funding by the Financing Partner shall be in consideration of the User promising to repay the amount along with certain charges determined by the Financing Partner based on the creditworthiness of the User and as set forth in a separate loan agreement entered between the Financing Partner and the User.
 
-**4.5** Details of the approved credit limit sanctioned to the User by the Financing Partner shall be available on the User’s registered account on the Application. Subject to such approved credit limit and the terms of the separate loan agreement entered between the Financing Partner and the User, the User may be allowed to obtain disbursements from the Financing Partner.
+**4.5** Details of the approved loan limit sanctioned to the User by the Financing Partner shall be available on the User’s registered account on the Application. Subject to such approved loan limit and the terms of the separate loan agreement entered between the Financing Partner and the User, the User may be allowed to obtain disbursements from the Financing Partner.
 
 **4.6** Redux reserves the right to refuse any loan request or cancel an approved loan at any time, for reason including creditworthiness, the User’s history of transactions on the Application, the Merchant’s account history or any other reason. In the event the User violates the Terms of Use, Redux reserves the right cancel transactions at any time before a Merchant delivers the Product or any part thereof.
 
@@ -43,7 +43,7 @@ Redux Credit Finance Private Limited, a company incorporated under the laws of R
 
 **4.11** Access to the Services may be slowed, unavailable, delayed due (amongst other circumstances) to any of the following: i. network, software or hardware failure; ii. government or regulatory restrictions; iii. interruption due to power failure or other utility service; iv. overload on the systems.
 
-**4.12** The Fees Schedule for the Services availed, either from Redux or Financing partner shall be provided to the User at the time of credit processing.
+**4.12** The Fees Schedule for the Services availed, either from Redux or Financing partner shall be provided to the User at the time of loan processing.
 
 **4.13** The User may at any time close his account by contacting support@Reduxup.com. Upon closing any pending transactions may be cancelled by Redux. In case the User owes amounts to Redux or the Financing Partner such account shall not be closed until all pending payments are made and during such period, the User shall not be allowed to avail any Service or buy any Product.
 

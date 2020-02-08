@@ -18,8 +18,8 @@ In compliance with the RBI directions, the interest rate policy of the Company i
 
 * Redux has its own model of arriving at interest rates taking into consideration, inter alia the Company’s cost of funds, risk premium and other administrative costs. 
  * The interest rate for different types of loans is computed based on loan tenor and risk calculations.
- * Other factors that will be taken into account to arrive at the final lending rate will be interest, credit risk, default risk, liquidity risk and market risk in the related business segment, historical performance of similar clients, profile of the borrower, tenure of relationship with the borrower, repayment track record of the borrower in case of existing customer, etc. Such information is gathered based on information provided by the borrower, the Company’s records, etc.
- * The rate of interest for the same product and tenor availed during same period by different customers could vary depending upon any of / combination of the above factors, borrower’s individual credit profile.
+ * Other factors that will be taken into account to arrive at the final lending rate will be interest, loan risk, default risk, liquidity risk and market risk in the related business segment, historical performance of similar clients, profile of the borrower, tenure of relationship with the borrower, repayment track record of the borrower in case of existing customer, etc. Such information is gathered based on information provided by the borrower, the Company’s records, etc.
+ * The rate of interest for the same product and tenor availed during same period by different customers could vary depending upon any of / combination of the above factors, borrower’s individual loan profile.
  * The interest rates could be offered on fixed or variable basis, of varying terms and repayment timeline, depending upon the default risk of the borrowers.
  * For the above interest, the range could vary between eighteen and thirty-six per cent annually.
  * The interest could be charged on monthly, quarterly or half-yearly rests for different products.

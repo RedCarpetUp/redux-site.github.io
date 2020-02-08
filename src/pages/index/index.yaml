@@ -1,11 +1,11 @@
 #index page
 meta:
   title: Home
-  description: Redux - Loans for the new to credit
+  description: Redux - Loans for the new to loan
 
 header:
   - title_red: Loans for the
-    title:  New to Credit
+    title:  New to Loan
     description: Get a loan faster and more easier than a bank
     more: Powered by RedCarpet Engineering
     image: phone.png
@@ -24,7 +24,7 @@ features:
     image: ./phone-lateral.png
 
   - header: Ruby Card
-    description: Ruby card is our virtual  card use it anywhere just like a credit card.
+    description: Ruby card is our virtual card use it anywhere just like a credit card.
     icon: ti-credit-card
 
   - header: Zeta Card
@@ -77,7 +77,7 @@ team_communication:
       image: ./10.png
 
     - title: Works wherever you go
-      description:  No need to save for something you really want to buy! And you don't have to depend on anyone else for it either.What you want to buy is your business and so is managing your finances. Get instant credit with RedCarpet.
+      description:  No need to save for something you really want to buy! And you don't have to depend on anyone else for it either.What you want to buy is your business and so is managing your finances. Get instant loan with RedCarpet.
       image: ./11.png
     
     - title: Everything in one place.

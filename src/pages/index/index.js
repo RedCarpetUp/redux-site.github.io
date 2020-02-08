@@ -159,9 +159,9 @@ export default function IndexPage({data}){
               <h2>Now Available</h2>
               <p>As absolute is by amounted repeated entirely ye returned. These ready timed enjoy might sir yet one since. Years drift never if could forty being no. On estimable dependent as suffering on my.</p>
 
-              <div className="gap-xy-2 my-6">
+              {/* <div className="gap-xy-2 my-6">
                 <a href={download.link_playstore}><img src={download.image_playstore.childImageSharp.fluid.src} alt="download on google play"/></a>
-              </div>
+              </div> */}
 
             </div>
 
