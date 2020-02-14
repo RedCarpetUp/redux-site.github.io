@@ -56,7 +56,7 @@
     "smoothscroll-for-websites": "^1.4.8",
     "typed.js": "^2.0.10",
     "waypoints": "^4.0.1",
-    "yarn": "^1.15.2"
+    "yarn": "^1.22.0"
   },
   "keywords": [
     "gatsby"
