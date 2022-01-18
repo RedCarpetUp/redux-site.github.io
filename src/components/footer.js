@@ -37,7 +37,7 @@ const Footer = () => (
         <div className="col-6 col-md-3 col-xl-2">
           <h6 className="mb-4 mt-1"><strong>Legal</strong></h6>
           <div className="nav flex-column">
-            <a className="nav-link" target="_blank" href="/assets/pdf/Grievance_Redressal_Policy%20(1).pdf">Grievance Redressal</a>
+            <a className="nav-link" target="_blank" href="/assets/pdf/Grievance_Redressal_Policy%20(1).pdf">Grievance Redressal Policy</a>
             <a className="nav-link" target="_blank" href="/assets/pdf/Fair_Practice_Code.docx%20(1).pdf">Fair Practice Code</a>
             <a className="nav-link" target="_blank" href="/assets/pdf/KYC_Policy.pdf">KYC Policy</a>
             <a className="nav-link" target="_blank" href="/assets/pdf/Moratorium_Policy.pdf">Moratorium Policy</a>
