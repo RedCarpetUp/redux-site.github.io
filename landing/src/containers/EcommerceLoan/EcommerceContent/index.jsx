@@ -1,0 +1,16 @@
+import React from "react";
+import { benefits } from "common/data/ecommerce_loan";
+import DesignAndBuilt from "../../DesignAndBuilt";
+import PromotionBlock from "../../PromotionBlock";
+
+const EcommerceContent = () => {
+  return benefits.map((e, i) => {
+    if (i % 2 != 0) {
+      return <DesignAndBuilt option={e} />;
+    } else {
+      return <PromotionBlock option={e} />;
+    }
+  });
+};
+
+export default EcommerceContent;
