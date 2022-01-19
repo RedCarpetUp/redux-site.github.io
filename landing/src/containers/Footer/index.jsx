@@ -51,7 +51,7 @@ const Footer = ({ row, col, colOne, colTwo }) => {
             </>
           ) : (
             <>
-              <Box className="row" {...row}>
+              <Box style={{ width: "100%" }} className="row" {...row}>
                 <Box className="col-one" {...colOne}>
                   <Logo
                     className="logo"
@@ -59,6 +59,7 @@ const Footer = ({ row, col, colOne, colTwo }) => {
                     logoSrc={{ src: logo }}
                     title="Home"
                     withAnchor="false"
+                    logoStyle={{ style: { width: "205px", height: "52px" } }}
                   />
                   <Text
                     className="text"

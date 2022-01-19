@@ -18,26 +18,26 @@ import {
 } from "../../common/data/terms_and_conditions";
 import ImageWrapper, { ContentWrapper } from "./style";
 
-export const withPageRouter = (Component) => {
-  return withRouter(({ router, ...props }) => {
-    let showLayout = true;
-    let blog = props.allBlogs[5];
-    let logo = imageExperian;
-    const searchParams = new URLSearchParams(router.asPath.split(/\?/)[1]);
-    for (const [key, value] of searchParams) {
-      if (key == "showLayout" && value == "false") showLayout = false;
-      if (key == "agreementType" && value == "equifax") {
-        blog = props.allBlogs[6];
-        logo = imageEquifax;
-      }
-    }
-    return (
-      <Component {...props} showLayout={showLayout} blog={blog} logo={logo} />
-    );
-  });
-};
+// export const withPageRouter = (Component) => {
+//   return withRouter(({ router, ...props }) => {
+//     let showLayout = true;
+//     let blog = props.allBlogs[5];
+//     let logo = imageExperian;
+//     const searchParams = new URLSearchParams(router.asPath.split(/\?/)[1]);
+//     for (const [key, value] of searchParams) {
+//       if (key == "showLayout" && value == "false") showLayout = false;
+//       if (key == "agreementType" && value == "equifax") {
+//         blog = props.allBlogs[6];
+//         logo = imageEquifax;
+//       }
+//     }
+//     return (
+//       <Component {...props} showLayout={showLayout} blog={blog} logo={logo} />
+//     );
+//   });
+// };
 
-const Privacy = (props) => {
+const Advisory = (props) => {
   const { allBlogs, logo } = props;
 
   return (
@@ -115,4 +115,4 @@ export async function getServerSideProps() {
   };
 }
 
-export default withPageRouter(Privacy);
+export default Advisory;
