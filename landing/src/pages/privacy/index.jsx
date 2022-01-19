@@ -90,7 +90,7 @@ const Privacy = (props) => {
   );
 };
 
-export async function getServerSideProps() {
+export async function getStaticProps() {
   const blogDirectory = path.join(process.cwd(), "src/common/data/legal");
   const filenames = fs.readdirSync(blogDirectory);
   const total = filenames.length;

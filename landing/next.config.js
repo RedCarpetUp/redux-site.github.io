@@ -6,6 +6,7 @@ const withBundleAnalyzer = require("@next/bundle-analyzer")({
 });
 
 const nextConfig = {
+  // webpack5: false,
   // distDir: '../../dist/functions/next'
   trailingSlash: true,
   images: {
@@ -59,4 +60,5 @@ const sentryWebpackPluginOptions = {
   silent: true
 };
 
-module.exports = withSentryConfig(moduleExports, sentryWebpackPluginOptions);
+// module.exports = withSentryConfig(moduleExports, sentryWebpackPluginOptions);
+module.exports = moduleExports;

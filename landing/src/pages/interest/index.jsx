@@ -103,12 +103,99 @@ const Interest = (props) => {
             <Heading
               content={<>2. Interest rate methodology and principles</>}
             />
-            <Text content={<></>} />
+            <Text
+              content={
+                <>
+                  In compliance with the RBI directions, the interest rate
+                  policy of the Company is as follows:
+                </>
+              }
+            />
+            <ul>
+              <li>
+                Redux has its own model of arriving at interest rates taking
+                into consideration, inter alia the Company’s cost of funds, risk
+                premium and other administrative costs.
+              </li>
+              <li>
+                The interest rate for different types of loans is computed based
+                on loan tenor and risk calculations.
+              </li>
+              <li>
+                Other factors that will be taken into account to arrive at the
+                final lending rate will be interest, loan risk, default risk,
+                liquidity risk and market risk in the related business segment,
+                historical performance of similar clients, profile of the
+                borrower, tenure of relationship with the borrower, repayment
+                track record of the borrower in case of existing customer, etc.
+                Such information is gathered based on information provided by
+                the borrower, the Company’s records, etc.
+              </li>
+              <li>
+                The rate of interest for the same product and tenor availed
+                during same period by different customers could vary depending
+                upon any of / combination of the above factors, borrower’s
+                individual loan profile.
+              </li>
+              <li>
+                The interest rates could be offered on fixed or variable basis,
+                of varying terms and repayment timeline, depending upon the
+                default risk of the borrowers.
+              </li>
+              <li>
+                For the above interest, the range could vary between eighteen
+                and thirty-six per cent annually.
+              </li>
+              <li>
+                The interest could be charged on monthly, quarterly or
+                half-yearly rests for different products.
+              </li>
+              <li>
+                The interest rate will be communicated to the customers prior to
+                submission of the loan application and EMI apportionment towards
+                interest and principal dues will also be made available to the
+                customer.
+              </li>
+              <li>
+                Interest payments will be included in the overall payment
+                schedule and the interest will be deemed payable immediately on
+                the due date as communicated and no grace period for payment of
+                interest will be allowed.
+              </li>
+              <li>
+                In addition to the interest charged on the loan, the company may
+                levy additional / penal interest for delay or default in making
+                payment of any dues. These additional or penal charges will be
+                communicated to the customer prior to submission of loan
+                application.{" "}
+              </li>
+              <li>
+                The Company will also levy other charges such as processing
+                fees, origination fees, late payment charges, re-scheduling
+                charges, pre-payment / foreclosure charges, part disbursement
+                charges, etc., wherever considered necessary.
+              </li>
+              <li>
+                Claims for refund or waiver of charges / penal interest /
+                additional interest will normally not be entertained by the
+                Company and it is at the sole discretion of the company to deal
+                with such requests.
+              </li>
+              <li>
+                Any changes to the interest rate will be reviewed by the Asset
+                Liability Committee (ALCO) and will be periodically published on
+                the Company website and communicated to the borrowers as deemed
+                fit by the Company.
+              </li>
+              <li>
+                Such revisions in the interest rates and other charges will be
+                prospective in effect
+              </li>
+            </ul>
             <Heading content={<>3. Key responsibilities of the Company</>} />
             <Text content={<></>} />
             <Heading content={<>4. Review of the policy</>} />
             <Text content={<></>} /> */}
-
             <ReactMarkdown source={allBlogs[0].document.content} />
           </Container>
         </ContentWrapper>
@@ -117,7 +204,7 @@ const Interest = (props) => {
   );
 };
 
-export async function getServerSideProps() {
+export async function getStaticProps() {
   const blogDirectory = path.join(process.cwd(), "src/common/data/interest");
   const filenames = fs.readdirSync(blogDirectory);
   const total = filenames.length;

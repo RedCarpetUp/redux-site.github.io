@@ -90,7 +90,7 @@ const Advisory = (props) => {
   );
 };
 
-export async function getServerSideProps() {
+export async function getStaticProps() {
   const blogDirectory = path.join(process.cwd(), "src/common/data/advisory");
   const filenames = fs.readdirSync(blogDirectory);
   const total = filenames.length;
