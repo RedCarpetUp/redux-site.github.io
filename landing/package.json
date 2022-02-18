@@ -39,7 +39,7 @@
     "gray-matter": "^4.0.3",
     "libphonenumber-js": "^1.9.44",
     "moment": "^2.29.1",
-    "next": "^11.1.2",
+    "next": "^12.1.0",
     "next-compose-plugins": "^2.2.1",
     "next-fonts": "1.5.1",
     "next-optimized-images": "^2.6.2",
