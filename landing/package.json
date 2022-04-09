@@ -38,7 +38,7 @@
     "firebase-functions": "^3.7.0",
     "gray-matter": "^4.0.3",
     "libphonenumber-js": "^1.9.44",
-    "moment": "^2.29.1",
+    "moment": "^2.29.2",
     "next": "^11.1.2",
     "next-compose-plugins": "^2.2.1",
     "next-fonts": "1.5.1",
