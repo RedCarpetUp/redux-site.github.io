@@ -20,7 +20,7 @@ const SourcingPartner = () => {
                                 <h4>RedCarpet Pvt Ltd</h4>
                                 <a href="https://www.redcarpetup.com/contact/" target="_blank" rel="noreferrer">
                                     <button className="btn btn-success">
-                                        Contact RedCarpet
+                                        View
                                     </button>
                                 </a>
                             </div>
