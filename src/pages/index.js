@@ -106,7 +106,7 @@ export default function IndexPage({ data }) {
         </section>
 
 
-        {/* team communication */}
+        {/* team communication data */}
 
 
         <section className="section" style={{marginTop: '-10%', textAlign: 'center'}}>
