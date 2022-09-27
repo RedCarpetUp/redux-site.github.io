@@ -19,6 +19,7 @@ const Footer = () => (
           <h6 className="mb-4 mt-1"><strong>Company</strong></h6>
           <div className="nav flex-column">
             <a className="nav-link" href="/about">About</a>
+            <a className="nav-link" href="/sourcing-partner">Sourcing Partner</a>
             <a className="nav-link" href="/privacy">Terms &amp; Conditions</a>
             <a className="nav-link" href="/faq">FAQ</a>
 
