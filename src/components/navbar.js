@@ -16,6 +16,9 @@ const Navbar = () => (
             <img className="logo-dark" src={logo} alt="logo"/>
             <img className="logo-light" src={logo} alt="logo"/>
           </a>
+           <a className="navbar-brand" href="https://bills.reduxfinance.com/">
+            Pay Bills
+          </a>
         </div>
 
         <section className="navbar-mobile">
